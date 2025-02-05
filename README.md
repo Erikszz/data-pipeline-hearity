@@ -65,7 +65,9 @@ This project seamlessly automates the end-to-end data pipeline, transforming raw
    - The forecasted data is mapped with existing data and supplemented with additional information, such as a unique forecast table ID, load timestamp, all forecast results, and calculations for AD and AS.  
    - The final dataset is converted into a DataFrame and stored in BigQuery under the specified table and project ID.
 
-#### [Detail Explanation](https://github.com/Erikszz/data-pipeline-hearity/blob/main/explanation.pdf)
+#### **Further Explanation**: 
+* [Detail Explanation](https://github.com/Erikszz/data-pipeline-hearity/blob/main/explanation.pdf)
+* [Alternative Link](https://www.linkedin.com/posts/gusti-ayu-putu-erika-erlina-2105a5219_capstone-project-activity-7274781511730520064-Ua3m?utm_source=share&utm_medium=member_desktop)
 
 #### **Prepare Google Cloud Platform:**
 1. Create a GCP project, example `project_id = 'capstone-project'`.
